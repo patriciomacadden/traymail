@@ -1,0 +1,2 @@
+?package(traymail):needs="X11" section="Applications/Network/Communication"\
+  title="traymail" command="/usr/bin/traymail"

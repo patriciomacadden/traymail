@@ -1,0 +1,7 @@
+REQUIREMENTS
+------------
+python2.6
+python-libgmail
+python-gobject
+python-gtk2
+python-sqlobject

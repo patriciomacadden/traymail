@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg4826"
+   sodipodi:version="0.32"
+   inkscape:version="0.46+devel"
+   version="1.0"
+   sodipodi:docname="indicator-messages-new.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4828">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective4834" />
+    <inkscape:perspective
+       id="perspective4844"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4899"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="25.405593"
+     inkscape:cy="41.465915"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1276"
+     inkscape:window-height="721"
+     inkscape:window-x="0"
+     inkscape:window-y="24" />
+  <metadata
+     id="metadata4831">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1004.3622)">
+    <g
+       id="g4480"
+       transform="matrix(1.2036811,0,0,1.1745256,-57.248474,373.67259)">
+      <rect
+         rx="2.8690305"
+         y="549.28198"
+         x="51.788643"
+         height="20.529858"
+         width="31.422714"
+         id="rect2830-7-2-7-7"
+         style="fill:none;stroke:#eb9b24;stroke-width:2;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path2832-9-2-0-0"
+         d="m 56.897315,553.85495 8.03571,7.94643 c 2.7494,2.63714 4.18915,1.45446 5.53572,0 l 7.20982,-7.92411"
+         style="fill:none;stroke:#fabe1b;stroke-width:2;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path2834-3-6-7-6"
+         d="m 56.361605,565.64066 6.00446,-5.70312"
+         style="fill:#000000;stroke:#fabe1b;stroke-width:2;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path2834-5-9-9-8-9"
+         d="m 78.677445,565.60718 -5.70312,-6.00446"
+         style="fill:#fabe1b;fill-opacity:1;stroke:#fabe1b;stroke-width:2;stroke-opacity:1" />
+      <path
+         id="rect4069-0-37-8"
+         d="m 67.813808,553.14468 c 0.28204,0 0.56513,-0.0842 0.78125,-0.3125 l 7.28125,-7.71875 c 0.43225,-0.45654 0.43225,-1.16847 0,-1.625 l -3.65625,0 0,-5.4375 c 0,-0.43097 -0.8462,-0.78125 -1.90625,-0.78125 l -4.96875,0 c -1.06006,0 -1.9375,0.35028 -1.9375,0.78125 l 0,5.4375 -3.65625,0 c -0.43224,0.45653 -0.43224,1.16846 0,1.625 l 7.28125,7.71875 c 0.21611,0.22826 0.4992,0.3125 0.78125,0.3125 z"
+         style="fill:#23a348;fill-opacity:1;stroke:#ffffff" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+Package: traymail
+Version: 0.2-1
+Architecture: amd64
+Maintainer: Patricio Mac Adden <patriciomacadden@gmail.com>
+Installed-Size: 232
+Depends: gettext, python2.6, python-gobject, python-gtk2, python-libgmail, python-sqlobject
+Section: mail
+Priority: extra
+Homepage: http://traymail.sourceforge.net
+Description: Check your mail in the system tray
+ traymail is an application with which you can check emails from the system tray. It supports imap, pop3 and gmail protocols.

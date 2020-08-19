@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<interface>
+  <requires lib="gtk+" version="2.16"/>
+  <!-- interface-naming-policy project-wide -->
+  <object class="GtkAboutDialog" id="aboutdialog1">
+    <property name="visible">True</property>
+    <property name="border_width">5</property>
+    <property name="window_position">center</property>
+    <property name="type_hint">normal</property>
+    <property name="has_separator">False</property>
+    <property name="program_name">traymail</property>
+    <property name="version">0.2</property>
+    <property name="copyright" translatable="yes">Copyright &#xA9; 2009 Patricio Mac Adden</property>
+    <property name="comments" translatable="yes">Check your mail in the systray</property>
+    <property name="website">http://traymail.sourceforge.net</property>
+    <property name="license" translatable="yes">Copyright (C) 2009 Patricio Mac Adden
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see &lt;http://www.gnu.org/licenses/&gt;.
+</property>
+    <property name="authors">Patricio Mac Adden
+
+Thanks to:
+&#xC1;lvaro F. "guiman" Lara
+Nicol&#xE1;s "macho" Espina Tacchetti</property>
+    <property name="documenters">Patricio Mac Adden</property>
+    <property name="translator_credits" translatable="yes">Patricio Mac Adden</property>
+    <property name="artists">Nicol&#xE1;s "macho" Espina Tacchetti</property>
+    <property name="logo">../icons/indicator-messages.svg</property>
+    <signal name="response" handler="response"/>
+    <child internal-child="vbox">
+      <object class="GtkVBox" id="dialog-vbox1">
+        <property name="visible">True</property>
+        <property name="orientation">vertical</property>
+        <property name="spacing">2</property>
+        <child>
+          <placeholder/>
+        </child>
+        <child internal-child="action_area">
+          <object class="GtkHButtonBox" id="dialog-action_area1">
+            <property name="visible">True</property>
+            <property name="layout_style">end</property>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="pack_type">end</property>
+            <property name="position">0</property>
+          </packing>
+        </child>
+      </object>
+    </child>
+  </object>
+</interface>

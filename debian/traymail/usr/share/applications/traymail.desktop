@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=traymail
+Comment=Check your mail in the system tray
+Exec=/usr/bin/traymail
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=GNOME;Network;
+Icon=/usr/share/pixmaps/traymail.svg
